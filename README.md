@@ -1,6 +1,6 @@
 # Guvi_DS
 
-#problem 1
+## problem 1
 Dora, the little adventure was busy helping her Mom Tanya at the kitchen. What's special that was getting ready? Tanya was preparing her special chicken noodle soup to give it to Diego, Dora's cousin. Once the soup was ready, Dora along with Boots set out to give the hot soup pot to Diego.
 
  
@@ -49,7 +49,7 @@ In the second iteration, we print index 6 as element 5 is present at index 6 in 
 After the second iteration, the queue becomes: [0,0,0,1]
 Note that the power of bug with power 0 after the first iteration still remains 0.
 
-##Problem 2
+## Problem 2
 
 David loves Cakes and is much interested in baking. Hence he joined as a Manager at a famous bakery 'Cake Walk' which is called the cake lovers' paradise in the town. Because of the bakery's tantalising and delicious wide range of freshly baked cakes served in attractive cake boxes, people are seen always queuing up to have one of those boxes, which is why David's job is not so easy. Each cake box has a cost associated with it. The cake boxes are kept as a pile. He needs to handle two types of queries:
 
@@ -101,7 +101,7 @@ Sample Output:
 7
  
 ```
-#Explanation:
+### Explanation:
 
 Initially, The pile is empty.
 Baker adds a box with cost=5.
